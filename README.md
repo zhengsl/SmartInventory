@@ -1,1 +1,1 @@
-# SmartInvetory
+# SmartInventory
