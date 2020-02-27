@@ -48,6 +48,7 @@ def whole_sale_volumn_month_plot(colName, title):
     plt.show()
 
 
+
 if __name__ == '__main__':
     whole_sale_volumn_month_plot(colName='whole_sale_volumn_day',
                                title="2015-2017 Nike Online Monthly Sales Trend (7 Province)")

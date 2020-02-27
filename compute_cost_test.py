@@ -117,7 +117,6 @@ def get_city_clusters_old(cities, provinces):
 
 
 def compute_cost_old(total_sales):
-
     sf_price_dict = read_sf_price('/Users/leon/Documents/Inventory/顺丰全国到全国标快及特惠报价单201709.xlsx',
                                   from_cache='/Users/leon/Documents/Inventory/Test/sf_price_real_01.dat')
 
